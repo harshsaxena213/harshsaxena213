@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="200" align="right" />
-🔭 I’m currently working on kitty-lang<br>👯 I’m looking to collaborate on kitty-lang<br>🤝 I’m looking for help with  share-it <br>
+🔭 I’m currently working on kitty-lang<br>👯 I’m looking to collaborate on kitty-lang<br>🤝 I’m looking for help with  Share-It <br>
 
 
 ## 🌐 Socials:
